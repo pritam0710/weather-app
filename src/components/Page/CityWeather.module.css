@@ -1,0 +1,26 @@
+.displayTemp {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content {
+  text-align: center;
+}
+
+.desc {
+  list-style: none;
+  font-size: 20px;
+  color: #143de2;
+  padding: 0px;
+  margin: 0px;
+}
+
+.descList {
+  border-bottom: 1px solid #2c2cf3;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  height: 52px;
+  line-height: 52px;
+}
